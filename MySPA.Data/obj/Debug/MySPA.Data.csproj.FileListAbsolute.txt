@@ -1,0 +1,16 @@
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\MySPA.Data.dll.config
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\MySPA.Data.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\MySPA.Data.pdb
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\EntityFramework.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Model.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Model.pdb
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\EntityFramework.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.csprojResolveAssemblyReference.cache
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.pdb

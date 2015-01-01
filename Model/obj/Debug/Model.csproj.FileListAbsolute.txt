@@ -1,0 +1,14 @@
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Model.dll.config
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Model.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Model.pdb
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\EntityFramework.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\EntityFramework.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.dll
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.pdb
+C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
