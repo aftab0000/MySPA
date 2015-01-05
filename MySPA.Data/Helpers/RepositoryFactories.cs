@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MySPA.Data.Helpers
 {
-    class RepositoryFactories
+    public class RepositoryFactories
     {
     }
 }

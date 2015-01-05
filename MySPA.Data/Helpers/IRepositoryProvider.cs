@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MySPA.Data.Helpers
 {
-    public class IRepositoryProvider
+    public interface IRepositoryProvider
     {
-        public ApplicationDbContext DbContext { get; set; }
+        ApplicationDbContext DbContext { get; set; }
     }
 }

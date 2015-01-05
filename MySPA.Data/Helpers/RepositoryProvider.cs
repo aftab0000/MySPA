@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace MySPA.Data.Helpers
 {
-    class RepositoryProvider
+    public class RepositoryProvider : IRepositoryProvider
     {
-        public ApplicationDbContext DbContext { get; set; }
+        public ApplicationDbContext DbContext
+        {
+            get { throw new NotImplementedException(); }
+            set { throw new NotImplementedException(); }
+        }
     }
 }
