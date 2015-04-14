@@ -24,9 +24,20 @@ namespace MySPA
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
-                name: "DefaultApi",
+                name: "DefaultRoute",
+                routeTemplate: "api/{controller}"
+            );
+
+            config.Routes.MapHttpRoute(
+                name: "ControllerAndId",
                 routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                defaults: null,
+                constraints: new { id = @"^\d+$"} //all digits 
+            );
+            
+            config.Routes.MapHttpRoute(
+                name: "ControllerAction",
+                routeTemplate: "api/{controller}/{action}"
             );
         }
     }
