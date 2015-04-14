@@ -55,6 +55,19 @@
     <Compile Include="ApplicationDbContext.cs" />
     <Compile Include="EFRepository.cs" />
     <Compile Include="Helpers\DatabaseInitializer.cs" />
+    <Compile Include="Helpers\IRepositoryProvider.cs" />
+    <Compile Include="Helpers\RepositoryFactories.cs" />
+    <Compile Include="Helpers\RepositoryProvider.cs" />
+    <Compile Include="Migrations\201504121121251_InitialCreate.cs" />
+    <Compile Include="Migrations\201504121121251_InitialCreate.Designer.cs">
+      <DependentUpon>201504121121251_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201504140453373_InitialCreate1.cs" />
+    <Compile Include="Migrations\201504140453373_InitialCreate1.Designer.cs">
+      <DependentUpon>201504140453373_InitialCreate1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="MySpaUow.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -66,6 +79,18 @@
       <Project>{eb7bb0c4-2035-4c38-9fce-a0d697636ab4}</Project>
       <Name>Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MySPA.Data.Contracts\MySPA.Data.Contracts.csproj">
+      <Project>{820a8c65-f687-401e-bb85-58b8b1c40f0e}</Project>
+      <Name>MySPA.Data.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201504121121251_InitialCreate.resx">
+      <DependentUpon>201504121121251_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201504140453373_InitialCreate1.resx">
+      <DependentUpon>201504140453373_InitialCreate1.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

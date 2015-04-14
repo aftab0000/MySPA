@@ -12,22 +12,32 @@ namespace MySPA.Data
     public class MySpaUow: IMySpaUow, IDisposable
     {
         private ApplicationDbContext DbContext { get; set; }
-        private RepositoryProvider RepositoryProvider { get; set; }
+        private IRepositoryProvider RepositoryProvider { get; set; }
 
         public MySpaUow(IRepositoryProvider repositoryProvider)
         {
             CreateDbContext();
 
-            repositoryProvider.DbContext = DbContext;
+            repositoryProvider.dbContext = DbContext;
             RepositoryProvider = repositoryProvider;
         }
 
         public IRepository<LogItem> LogItem { get { return GetStandardRepo<LogItem>(); } }
 
-        private IRepository<T> GetStandardRepo<T>() where T: class 
+        public void Commit()
         {
-            return Repos
-        } 
+            DbContext.SaveChanges();
+        }
+
+        private IRepository<T> GetStandardRepo<T>() where T: class
+        {
+            return RepositoryProvider.GetRepositoryForEntityType<T>();
+        }
+
+        private T GetRepo<T>() where T : class
+        {
+            return RepositoryProvider.GetRepository<T>();
+        }
         private void CreateDbContext()
         {
             DbContext = new ApplicationDbContext();
@@ -41,7 +51,7 @@ namespace MySPA.Data
     
         public void Dispose()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }

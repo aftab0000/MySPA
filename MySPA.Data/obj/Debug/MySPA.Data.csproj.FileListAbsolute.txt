@@ -14,3 +14,24 @@ C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\bin\Debug\
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.csprojResolveAssemblyReference.cache
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.dll
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\MySPA.Data\obj\Debug\MySPA.Data.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.csprojResolveAssemblyReference.cache
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\MySPA.Data.dll.config
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\MySPA.Data.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\MySPA.Data.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Model.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\MySPA.Data.Contracts.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Model.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\MySPA.Data.Contracts.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.Migrations.InitialCreate.resources
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.csproj.GenerateResource.Cache
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data\obj\Debug\MySPA.Data.Migrations.InitialCreate1.resources

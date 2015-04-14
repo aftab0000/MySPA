@@ -1,0 +1,13 @@
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\MySPA.Data.Contracts.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\MySPA.Data.Contracts.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\obj\Debug\MySPA.Data.Contracts.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\obj\Debug\MySPA.Data.Contracts.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Model.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Model.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\bin\Debug\EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\MySPA.Data.Contracts\obj\Debug\MySPA.Data.Contracts.csprojResolveAssemblyReference.cache

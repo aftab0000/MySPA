@@ -12,3 +12,17 @@ C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\bin\Debug\Micro
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.dll
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.pdb
 C:\Users\Aftab\documents\visual studio 2013\Projects\MySPA\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Model.dll.config
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Model.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Model.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\obj\Debug\Model.dll
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\obj\Debug\Model.pdb
+C:\Aftab\Work\Experiment\MySPA\MySPA\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

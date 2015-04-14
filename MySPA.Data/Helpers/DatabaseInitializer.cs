@@ -14,15 +14,15 @@ namespace MySPA.Data.Helpers
     {
         protected override void Seed(ApplicationDbContext context)
         {
-            if (!context.Users.Any(u => u.UserName == "aftab0000@gmail.com"))
-            {
-                var user = new ApplicationUser
+            var user = new ApplicationUser
                 {
                     UserName = "aftab0000@gmail.com",
                     Email = "aftab0000@gmail.com",
                     Hometown = "Uttara"
                 };
 
+            if (!context.Users.Any(u => u.UserName == "aftab0000@gmail.com"))
+            {
                 var store = new UserStore<ApplicationUser>(context);
                 var userManger = new UserManager<ApplicationUser>(store);
 
@@ -30,6 +30,19 @@ namespace MySPA.Data.Helpers
                 userManger.Create(user, "Jul@2010");
             }
 
+            if (! context.LogItem.Any(l => l.Id.Equals(1)))
+            {
+                var logItem = new LogItem
+                {
+                    Id = 1,
+                    Desctiption = "First log item",
+                    LoggedBy = user,
+                    LogTime = DateTime.Now
+                };
+
+                var repo = new EFRepository<LogItem>(context);
+                repo.Add(logItem);
+            }
             base.Seed(context);
             
         }
